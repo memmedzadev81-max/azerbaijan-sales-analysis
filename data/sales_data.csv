@@ -1,0 +1,3 @@
+order_id,order_date,customer_id,region,category,product,quantity,unit_price,discount,total_amount,salesperson
+ORD00069,2024-01-02,C0072,Şəki,Geyim,Papaq,2,33,0.0,66.0,Ləman
+ORD00269,2024-01-02,C0052,Bakı,İdman,Top,1,155,0.0,155.0,Aysel
